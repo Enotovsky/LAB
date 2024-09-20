@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb79cbea-19f2-4006-bcc9-2fe155f70bdb" name="Changes" comment="Add file" />
+    <list default="true" id="cb79cbea-19f2-4006-bcc9-2fe155f70bdb" name="Changes" comment="Troyanovsky">
+      <change beforePath="$PROJECT_DIR$/LAB_1" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726854232241</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="RUDN &lt;3">
+      <option name="closed" value="true" />
+      <created>1726854902464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726854902464</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Troyanovsky">
+      <option name="closed" value="true" />
+      <created>1726855138607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726855138607</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +145,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add file" />
     <MESSAGE value="RUDN" />
-    <option name="LAST_COMMIT_MESSAGE" value="RUDN" />
+    <MESSAGE value="RUDN &lt;3" />
+    <MESSAGE value="Troyanovsky" />
+    <option name="LAST_COMMIT_MESSAGE" value="Troyanovsky" />
   </component>
 </project>
